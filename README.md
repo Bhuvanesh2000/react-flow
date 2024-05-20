@@ -8,5 +8,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-Working [first commit](f670398377c085dd05562d89ecb6ab277ac4b775) deployed to Vercel
+Working [first commit](https://github.com/Bhuvanesh2000/react-flow/commit/f670398377c085dd05562d89ecb6ab277ac4b775) deployed to Vercel
 - [Vercel](https://react-flow-nu.vercel.app)
